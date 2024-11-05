@@ -1,4 +1,4 @@
-![WallGo](docs/source/figures/wallgo.svg)
+![WallGo](wallgo.svg)
 
 
 # WallGo Project
