@@ -1,4 +1,4 @@
-<img src="wallgo.svg" alt="Alt Text" style="width:25%; height:auto; display: block; margin: 0 auto">
+<img src="wallgo.svg" alt="WallGoLogo" width="200"/>
 
 
 # WallGo Project
