@@ -1,4 +1,4 @@
-<img src="wallgo.svg" alt="WallGoLogo" width="200"/>
+<img src="https://raw.githubusercontent.com/Wall-Go/WallGo/refs/heads/main/docs/source/figures/wallgo.svg" alt="WallGoLogo" width="200"/>
 
 
 # WallGo Project
