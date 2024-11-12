@@ -3,7 +3,8 @@
 
 # WallGo Project
 
-**WallGo** is an open source code for the computation of the bubble wall velocity and bubble wall width in first-order cosmological phase transitions.
+**WallGo** is an open source code for the computation of the bubble wall velocity and bubble wall width in first-order cosmological phase transitions. For the associated
+scientific article, see [arXiv:2411.04970](https://arxiv.org/abs/2411.04970).
 
 The WallGo Project consists of one main Python package and two helper packages.
 - [**WallGo**](https://github.com/Wall-Go/WallGo) is the main Python package which determines the wall velocity and width by solving the scalar field(s) equation of motion, the Boltzmann equations and energy-momentum conservation for the fluid velocity and temperature.
